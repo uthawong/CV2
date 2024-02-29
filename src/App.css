@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+
 .App {
   text-align: center;
 }
@@ -14,7 +16,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: black;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,8 +26,47 @@
   color: white;
 }
 
+/* Namn signaturen */
+.sign {
+  font-family: 'Homemade Apple', cursive;
+  text-align: center;
+  font-size:3EM;
+}
+
 .App-link {
-  color: #61dafb;
+  color: purple;
+  text-align: center;
+}
+
+.presentation-title{
+  text-align: center;
+}
+.about-title{
+  text-align: center;
+}
+.work-title{
+  text-align: center;
+}
+.education-title{
+  text-align: center;
+}
+.project-title{
+  text-align: center;
+}
+.contact-title{
+  text-align: center;
+}
+.description{
+text-align: center;
+}
+.site-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 5px 0;
+  background-color: black;
+  color: white;
 }
 
 @keyframes App-logo-spin {

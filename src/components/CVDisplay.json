@@ -1,0 +1,99 @@
+{
+    "myCV": [
+        {
+            "id": 1,
+            "employer": "CLUW Consulting AB",
+            "role": "CEO",
+            "hours": "100%",
+            "dates": "February 2024- "
+        },
+        {
+            "id": 2,
+            "employer": "Östanskär Hotell & Konferens, Indal",
+            "role": "Waitress",
+            "hours": "25%",
+            "dates": "September 2023 - February 2024"
+        },
+        {
+            "id": 3,
+            "employer": "En Liten Krog, En Liten Sjökrog, Lokal, Sundsvall",
+            "role": "Waitress, Bartender och Barista",
+            "hours": "25%",
+            "dates": "May 2023 - February 2024"
+        },
+        {
+            "id": 4,
+            "employer": "Barista Fair Trade Coffee, Stockholm",
+            "role": "Manager och Barista",
+            "hours": "100%",
+            "dates": "May 2008 - June 2009"
+        },
+        {
+            "id": 5,
+            "employer": "WAY, Stockholm",
+            "role": "Salesman",
+            "hours": "80%",
+            "dates": "September 2005 - August 2006"
+        },
+        {
+            "id": 6,
+            "employer": "Oscar Matsal & Bar, Sundsvall",
+            "role": "Waitress",
+            "hours": "50%",
+            "dates": "May 2003 - August 2005"
+        },
+        {
+            "id": 7,
+            "employer": "Chaow Praya River, Sundsvall",
+            "role": "Waitress",
+            "hours": "50%",
+            "dates": "September 2001 - May 2004"
+        },
+        {
+            "id": 8,
+            "employer": "Wayne’s Coffee, Sundsvall",
+            "role": "Barista",
+            "hours": "20%",
+            "dates": "June 1999 - May 2004"
+        }
+    ],
+
+    "myEducation": [
+        {
+            "id": 1,
+            "school": "EduGrade, Sundsvall",
+            "degree": "Systemdeveloper .NET with AI competence",
+            "timeperiod": "September 2023 -April 2025"
+        },
+        {
+            "id": 2,
+            "school": "PM-Prolearn, USA",
+            "degree": "Project Management Professional (PMP) Certification",
+            "timeperiod": "February 2022"
+        },
+        {
+            "id": 3,
+            "school": "University of Maryland Global Campus, USA",
+            "degree": "Bachelor of Science - Computer Networks and Cybersecurity",
+            "timeperiod": "August 2016 - March 2021"
+        },
+        {
+            "id": 4,
+            "school": "University of Maryland Global Campus, USA",
+            "degree":"Associate’s degree, Computer studies,",
+            "timeperiod": "August 2016 - December 2019"
+        },
+        {
+            "id": 5,
+            "school":"Kulturama, Stockholm",
+            "degree": "Yrkeslinjen",
+            "timeperiod": "August 2006 - June 2008"
+        },
+        {
+            "id": 6,
+            "school": "Hedbergska Skolan, Sundsvall",
+            "degree": "Estetiska Programmet - Musik",
+            "timeperiod": "August 2000 - June 2003"
+        }
+    ]
+}
